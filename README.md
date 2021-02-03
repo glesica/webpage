@@ -1,4 +1,6 @@
-# ![Logo](media/favicon.png) Webpage
+![Logo](media/favicon.png)
+
+# Webpage
 
 A somewhat unconventional static site generator.
 
